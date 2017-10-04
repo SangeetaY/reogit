@@ -10,7 +10,7 @@ import oracle.jbo.server.ViewObjectImpl;
 public class ViewObjViewImpl extends ViewObjectImpl {
     /**
      * This is the default constructor (do not remove).
-     */
+     */  
     public ViewObjViewImpl() {
     }
 }
